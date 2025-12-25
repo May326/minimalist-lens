@@ -1,0 +1,7 @@
+{
+  "name": "Minimalist Lens",
+  "description": "A minimalist companion that helps you declutter your life. Upload a photo of an object or space, answer three soul-searching questions, and receive personalized, practical advice to simplify your environment.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
